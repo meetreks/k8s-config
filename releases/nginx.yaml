@@ -15,7 +15,7 @@ spec:
   chart:
     repository: https://charts.bitnami.com/bitnami/
     name: nginx
-    version: 13.0.0
+    version: 9.6.2
   values:
     usePassword: true
     image:
